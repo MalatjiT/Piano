@@ -7,8 +7,7 @@
 
 </head>
 <body>
-
-   <nav id="banner" class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav id="banner" class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#"> Pianoman </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
          <span class="navbar-toggler-icon"></span>
@@ -75,15 +74,12 @@ produce high quality music with computer software. </p>
                </ul>
                <div class="card-body">
                   <a href="#" class="card-link"> Back To Top </a>
-  </div>
-   </div>
-         </div>
-
-     </div>
-   </div>
-
-
-   <br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br>
    <footer class="footer mt-auto py-3 bg-dark">
       <div class="container">
          <p class="text-muted">
