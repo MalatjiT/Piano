@@ -63,6 +63,12 @@ li > a:active {
 #banner, #navbarNav {
 transition: all 1s ease;
 }
+@media (min-width: 512px) {
+  .card-link {
+    display: none;
+  }
+}
+
 </style>
 </head>
 <body>
@@ -174,7 +180,7 @@ produce high quality music with computer software. </p>
         </div>
 
         <!-- Social Media Icons Section -->
-        <div class="footer-socials" style="margin-bottom: 20px;">
+        <div class="footer-socials container" style="margin-bottom: 20px;">
             <a href="https://instagram.com" target="_blank" style="color: #fff; font-size: 18px; margin: 0 10px; text-decoration: none;">
                 <i class="fa fa-instagram"></i>
             </a>
@@ -189,16 +195,6 @@ produce high quality music with computer software. </p>
             </a>
         </div>
 
-        <!-- Newsletter Signup Section -->
-        <div class="footer-newsletter" style="margin-bottom: 20px;">
-            <p style="font-size: 16px; margin-bottom: 10px;">Stay updated with new releases!</p>
-            <form action="/subscribe" method="post" style="display: inline-block;">
-                <input type="email" name="email" placeholder="Enter your email" style="padding: 10px; font-size: 16px; width: 250px; margin-right: 10px; border: none; border-radius: 5px;">
-                <button type="submit" style="padding: 10px 20px; font-size: 16px; background-color: #f1c40f; color: #333; border: none; border-radius: 5px;">Subscribe</button>
-            </form>
-        </div>
-
-        <!-- Copyright Section -->
         <div class="footer-copyright" style="font-size: 14px; color: #bbb;">
             <p>&copy; 2025 [Your Name or Brand]. All Rights Reserved.</p>
         </div>
