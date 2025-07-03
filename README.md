@@ -41,9 +41,8 @@ Vet me on these following social media sites...
    </div>
 <div class="container-fluid content">
       <div class="row">
-
-         <div>
-            <ul class="list-group">
+<div>
+<ul class="list-group">
                <li class="list-group-item active"> Click this link! </li>
                <li class="list-group-item"> <i class="fa fa-facebook"></i> Facebook </li>
                <li class="list-group-item"> <i class="fa fa-twitter"></i> Twitter </li>
