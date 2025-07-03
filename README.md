@@ -47,7 +47,7 @@ Vet me on these following social media sites...
    <div class="container-fluid content">
       <div class="row">
 
-         <div class="col-12 col-sm-3">
+         <div>
             <ul class="list-group">
                <li class="list-group-item active"> Click this link! </li>
                <li class="list-group-item"> <i class="fa fa-facebook"></i> Facebook </li>
@@ -57,7 +57,7 @@ Vet me on these following social media sites...
             </ul>
          </div>
 
-         <div class="col-12 col-sm-6">
+         <div>
             <br>
             <h2> Pianoman </h2>
             <p> I have started producing music on cassettes. I've created low fidelity music
