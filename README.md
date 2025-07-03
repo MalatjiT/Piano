@@ -30,10 +30,7 @@
          </ul>
       </div>
    </nav>
-
-
-
-   <div class="jumbotron content jumbotron-fluid">
+<div class="jumbotron content jumbotron-fluid">
       <div class="container">
          <h1 class="display-4">  Pianoman </h1>
          <p class="lead">
@@ -43,8 +40,7 @@ Vet me on these following social media sites...
  </p>
       </div>
    </div>
-
-   <div class="container-fluid content">
+<div class="container-fluid content">
       <div class="row">
 
          <div>
@@ -56,16 +52,14 @@ Vet me on these following social media sites...
                <li class="list-group-item"> <i class="fa fa-youtube"></i> YouTube </li>
             </ul>
          </div>
-
-         <div>
+<div>
             <br>
             <h2> Pianoman </h2>
             <p> I have started producing music on cassettes. I've created low fidelity music
 </p>
             <img src="cassete.jpg" class="img-fluid rounded" alt="Image of a cassette" />
          </div>
-
-         <div>
+<div>
             <br>
             <div class="card">
                <img class="card-img-top" src="dj.jpg" alt="DJ on the deck card image">
