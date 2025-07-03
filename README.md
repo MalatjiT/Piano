@@ -65,7 +65,7 @@ Vet me on these following social media sites...
             <img src="cassete.jpg" class="img-fluid rounded" alt="Image of a cassette" />
          </div>
 
-         <div class="col-12 col-sm-3">
+         <div>
             <br>
             <div class="card">
                <img class="card-img-top" src="dj.jpg" alt="DJ on the deck card image">
