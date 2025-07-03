@@ -5,42 +5,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1" />
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
-<style>
-   html,body {
-      margin: 0;
-      padding: 0;
-      }
-  body {
-  scroll-behavior: smooth;
-  }
-.sticky {
-position: fixed;
-top: 0;
-left: 0;
-width: 100%;
-background: #f1f1f1;
 
-color: #555;
-   z-index: 10000;
-   margin: 0;
-}
-.sticky + .content {
-  padding-top: 102px;
-}
-   small {
-      color: white;
-      }
-img {
-max-width: 100%;
-height: auto;
-}
-li {
-list-style-type: none;
-}
-#banner, #navbarNav {
-transition: all 1s ease;
-}
-</style>
 </head>
 <body>
 
