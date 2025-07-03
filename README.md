@@ -75,11 +75,11 @@ produce high quality music with computer software. </p>
                </ul>
                <div class="card-body">
                   <a href="#" class="card-link"> Back To Top </a>
-               </div>
-            </div>
+  </div>
+   </div>
          </div>
 
-      </div>
+     </div>
    </div>
 
 
@@ -88,13 +88,11 @@ produce high quality music with computer software. </p>
       <div class="container">
          <p class="text-muted">
 Location: Roodepoort, Johannesburg <br>
-
 </p>
 <p>
 <small>&copy; Copyright information here. This is a mock up design of Piano man's homepage.</small>
 </p>
 </div>
 </footer>
-
 </body>
 </html>
