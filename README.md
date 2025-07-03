@@ -61,7 +61,7 @@ Vet me on these following social media sites...
             <br>
             <h2> Pianoman </h2>
             <p> I have started producing music on cassettes. I've created low fidelity music
- </p>
+</p>
             <img src="cassete.jpg" class="img-fluid rounded" alt="Image of a cassette" />
          </div>
 
