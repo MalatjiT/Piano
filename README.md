@@ -7,7 +7,9 @@
 
 </head>
 <body>
+<div>
 <a href="https://malatjit.github.io/Piano/">Link to the live site</a>
+</div>
 <nav id="banner" class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#"> Pianoman </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
