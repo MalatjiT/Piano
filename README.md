@@ -79,22 +79,20 @@ produce high quality music with computer software. </p>
 </div>
 </div>
 <br>
-   <footer class="footer mt-auto py-3 bg-dark">
-    <!-- Container for the Footer Content -->
-    <div class="footer-container" style="max-width: 1200px; margin: 0 auto;">
-
-        <!-- Logo/Brand Name Section -->
-        <div class="footer-logo" style="margin-bottom: 20px;">
-            <a href="/" style="font-size: 24px; font-weight: bold; color: #fff; text-decoration: none;">[Your Name or Logo]</a>
-        </div>
-
-        <!-- Quick Links Section -->
-        <div class="footer-links" style="margin-bottom: 20px;">
-            <a href="/" style="color: #fff; text-decoration: none; margin-right: 15px;">Home</a>
-            <a href="/about" style="color: #fff; text-decoration: none; margin-right: 15px;">About</a>
-            <a href="/services" style="color: #fff; text-decoration: none; margin-right: 15px;">Services</a>
-            <a href="/contact" style="color: #fff; text-decoration: none;">Contact</a>
-        </div>
+<footer class="footer mt-auto py-3 bg-dark">
+<!-- Container for the Footer Content -->
+<div class="footer-container" style="max-width: 1200px; margin: 0 auto;">
+<!-- Logo/Brand Name Section -->
+ <div class="footer-logo" style="margin-bottom: 20px;">
+ <a href="/" style="font-size: 24px; font-weight: bold; color: #fff; text-decoration: none;">[Your Name or Logo]</a>
+</div>
+<!-- Quick Links Section -->
+<div class="footer-links" style="margin-bottom: 20px;">
+<a href="/" style="color: #fff; text-decoration: none; margin-right: 15px;">Home</a>
+<a href="/about" style="color: #fff; text-decoration: none; margin-right: 15px;">About</a>
+<a href="/services" style="color: #fff; text-decoration: none; margin-right: 15px;">Services</a>
+<a href="/contact" style="color: #fff; text-decoration: none;">Contact</a>
+</div>
 
         <!-- Social Media Icons Section -->
         <div class="footer-socials" style="margin-bottom: 20px;">
